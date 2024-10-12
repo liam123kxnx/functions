@@ -6,6 +6,6 @@ name = "jesse oko"
 print("python english is confusing")
 
 
-def outroduce():
+def outroduce(14):
     print("its fun learning python")
     print(age)
